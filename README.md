@@ -1,1 +1,1 @@
-# thebible-releases
+## Install #TheBible
