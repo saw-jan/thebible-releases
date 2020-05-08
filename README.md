@@ -1,4 +1,4 @@
-![GitHub Logo](/ico-the-bible.png)
+![TheBibleLogo](/ico-the-bible.png)
 ## Install TheBible
 1. Download latest version here:
  * For Windows: [Download](https://github.com/saw-jan/thebible-releases/releases/latest/download/)
